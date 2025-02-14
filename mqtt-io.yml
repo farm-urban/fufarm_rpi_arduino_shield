@@ -21,7 +21,7 @@ mqtt:
   port: 1883
   user: hamqtt
   password: "UbT4Rn3oY7!S9L"
-  topic_prefix: sensors
+  topic_prefix: farm
   ha_discovery:
     enabled: yes
 
